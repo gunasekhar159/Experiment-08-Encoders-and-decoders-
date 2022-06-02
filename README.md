@@ -92,7 +92,7 @@ endmodule
 
 ### RTL LOGIC  
 ## Encoder:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Experiment-08-Encoders-and-decoders-/blob/main/25.png?raw=true)
 
 
 
@@ -114,9 +114,10 @@ endmodule
 
 ![output](?raw=true)
 
+
 ### RTL LOGIC  
 ## decoder:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Experiment-08-Encoders-and-decoders-/blob/main/26.png?raw=true)
 
 
 ### TIMING DIGRAMS
