@@ -103,7 +103,7 @@ endmodule
 
 ### TIMING DIGRAMS  
 ## Encoder:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Experiment-08-Encoders-and-decoders-/blob/main/t1.jpg?raw=true)
 
 
 
@@ -122,7 +122,7 @@ endmodule
 
 ### TIMING DIGRAMS
 ## decoder:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Experiment-08-Encoders-and-decoders-/blob/main/t2.html?raw=true)
 
 ### TRUTH TABLE
 ## decoder:
