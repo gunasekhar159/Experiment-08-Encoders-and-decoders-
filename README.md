@@ -55,7 +55,7 @@ D7 = X Y Z
 ## Figure -04 8 to 3 Decoder implementation 
 
 ### Procedure
-/* write all the steps invloved */
+
 
 
 ```
@@ -112,7 +112,7 @@ endmodule
 ### TRUTH TABLE 
 ## Encoder:
 
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Experiment-08-Encoders-and-decoders-/blob/main/ten.png?raw=true)
 
 
 ### RTL LOGIC  
@@ -122,11 +122,11 @@ endmodule
 
 ### TIMING DIGRAMS
 ## decoder:
-![output](https://github.com/gunasekhar159/Experiment-08-Encoders-and-decoders-/blob/main/t2.html?raw=true)
+![output](https://github.com/gunasekhar159/Experiment-08-Encoders-and-decoders-/blob/main/t3.png?raw=true)
 
 ### TRUTH TABLE
 ## decoder:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/Experiment-08-Encoders-and-decoders-/blob/main/tde.png?raw=true)
 
 
 
