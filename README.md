@@ -58,7 +58,7 @@ D7 = X Y Z
 /* write all the steps invloved */
 
 
-
+```
 ### PROGRAM 
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
@@ -84,7 +84,7 @@ or(a,d4,d5,d6,d7);
 or(b,d2,d3,d6,d7);
 or(c,d1,d3,d5,d7);
 endmodule
-
+```
 
 
 
